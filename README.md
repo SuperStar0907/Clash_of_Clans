@@ -3,6 +3,8 @@
 
 Used OS concepts:
 1. Multi-threading (threading)
+2. Asynchronous I/O (asyncio)
+5. system features like time, memory(os)
 
 Used OOPS concepts:
 
